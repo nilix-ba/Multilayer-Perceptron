@@ -31,20 +31,6 @@ The code is organized into several sections, each serving a specific purpose:
     - The trained network is then tested on the testing data, and the accuracy of the predictions is calculated.
     - The code also generates scatter plots of the testing data points, colored by their predicted class.
 
-## Usage
-
-To use this code, follow these steps:
-
-1. Ensure you have Python installed on your system.
-
-2. Clone or download this repository to your local machine.
-
-3. Create training and testing data files. Each file should contain one data point per line, with features separated by spaces, followed by the class label (0 or 1).
-
-4. Modify the main part of the code to specify the correct file paths and adjust the network architecture if needed.
-
-5. Run the code using a Python interpreter.
-
 ## Dependencies
 
 This code depends on the following Python libraries:
