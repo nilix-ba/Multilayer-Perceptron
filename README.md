@@ -51,9 +51,5 @@ This code depends on the following Python libraries:
 - NumPy
 - Matplotlib
 
-You can install these libraries using pip if they are not already installed:
 
-```bash
-pip install numpy matplotlib
-```
 
